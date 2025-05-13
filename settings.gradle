@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'flink'
-include('app', 'list', 'utilities')
+include('app', 'list', 'utilities', 'quickstart')
